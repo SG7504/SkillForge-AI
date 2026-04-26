@@ -689,7 +689,7 @@ Looking for QA Lead with expertise in automation frameworks, team leadership, an
 
 ## 🌐 Live Demo
 
-👉 [Add deployed project link here]
+👉 https://skill-forge-gigizxomc-sg7504s-projects.vercel.app/
 
 ---
 
